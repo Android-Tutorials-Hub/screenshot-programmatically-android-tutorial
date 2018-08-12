@@ -8,8 +8,8 @@ How to take a **screenshot programmatically** in Android
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/AndroidTutorialsHub)
 
-![Login](http://www.androidtutorialshub.com/wp-content/uploads/2016/11/b776bf9e-657c-4c1f-b452-d7e7a2966600_new.png)
-![Login Auth](http://www.androidtutorialshub.com/wp-content/uploads/2016/11/afe1de0e-2dcf-4213-b709-0fe8edd3c963.png)
-![Registeration](http://www.androidtutorialshub.com/wp-content/uploads/2016/11/02cc7387-7d17-4c50-8a2e-743657659d58.png)
-![Registeration Auth](http://www.androidtutorialshub.com/wp-content/uploads/2016/11/fef9e6b2-93d2-4dcb-94d4-9092ce160d92.png)
-![Dashboard](http://www.androidtutorialshub.com/wp-content/uploads/2016/11/975e4e3a-ea4e-4b30-af65-aa2181b8417f.png)
+![Main Screen](http://www.androidtutorialshub.com/wp-content/uploads/2018/08/bd709e34-fb2c-4e37-8cc1-142fe44b449d.png)
+![Activity Screenshot](http://www.androidtutorialshub.com/wp-content/uploads/2018/08/344be57b-bd7c-4d82-96b8-ca88a5c3fa7e.png)
+![Layout Screenshot](http://www.androidtutorialshub.com/wp-content/uploads/2018/08/c5e2ec5e-c39b-48b8-ac0b-3e96c9f1e294.png)
+![Runtime Permission](http://www.androidtutorialshub.com/wp-content/uploads/2018/08/3094ab2f-8af0-44b2-b9b3-c9d939ffff4c.png)
+![Save Screenshot](http://www.androidtutorialshub.com/wp-content/uploads/2018/08/11e0065e-5f7c-45ff-876c-f1f7fe6e58ea.png)
