@@ -1,8 +1,8 @@
 How to take a **screenshot programmatically** in Android
 
-[Tutorial](http://www.androidtutorialshub.com/android-login-and-register-with-sqlite-database-tutorial/)
+[Tutorial](http://www.androidtutorialshub.com/android-take-screenshot-programmatically/)
 
-[Video Demo](https://www.youtube.com/watch?v=_qSmV7fWCwM)
+[Video Demo](https://www.youtube.com/watch?v=TjMXEflJmEs)
 
 [Facebook](https://www.facebook.com/androidtutorialshub)
 
